@@ -30,6 +30,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ### 學術論文
    - Tin-Yu Wu, **Chi-Jung Hsieh**, Kuang-Sung Wu, Fu Jie Tey, Yi-Kai Chen, Jye Yi Ho,"A Genetic Algorithm to Optimize Cargo Stability in Container Transportation",_IEEE 11th Global Conference on Consumer Electronics(IEEE GCCE 2022)_,Osaka,Japan,October 18-21,2022.
    - **謝奇容**,林聖博,吳庭育,"Based on Deep Q-learning for Optimized Routing of Underwater Acoustic Communication",_The 17th Workshop on Wireless, Ad-Hoc and Sensor Networks(WASN 2022)_,Taichung,Taiwan,August 26-27,2022.
+
 ### 專題研究
    - [基於深度學習與影像辨識的居家腸道疾病健檢系統開發]()
 

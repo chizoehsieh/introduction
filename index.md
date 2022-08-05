@@ -37,6 +37,8 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ### 研究計畫
 
 ### 課程作品
+  - [宜蘭大冒險](https://github.com/chizoehsieh/Adventure-in-Ilan)
+	
 
 ### 社團經驗
   - 管樂社

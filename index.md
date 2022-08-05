@@ -26,7 +26,11 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 6. 於2022年1月參加「教育部補助大專校院STEM領域及女性研發人才培育計畫2022宜蘭大學互動遊戲設計」榮獲傑出女力獎與最佳潛力獎
 7. 擔任班上學藝股長7學期
 8. 擔任管樂社譜務一年、系學會總務一年
+
+
 # 經歷列表
+
+
 ## 學術論文
    - Tin-Yu Wu, **Chi-Jung Hsieh**, Kuang-Sung Wu, Fu Jie Tey, Yi-Kai Chen, Jye Yi Ho,"A Genetic Algorithm to Optimize Cargo Stability in Container Transportation",_IEEE 11th Global Conference on Consumer Electronics(IEEE GCCE 2022)_,Osaka,Japan,October 18-21,2022.
    - **謝奇容**,林聖博,吳庭育,"Based on Deep Q-learning for Optimized Routing of Underwater Acoustic Communication",_The 17th Workshop on Wireless, Ad-Hoc and Sensor Networks(WASN 2022)_,Taichung,Taiwan,August 26-27,2022.

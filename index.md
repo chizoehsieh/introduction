@@ -1,9 +1,5 @@
 ## 謝奇容
 
-You can use the [editor on GitHub](https://github.com/chizoehsieh/introduction/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
 
 ### About Me
 
@@ -41,11 +37,23 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 
 ## 研究計畫
+   - [CPE學習平台系統建置]()
+   - [松露AIoT系統及地底攝影開發]()
+   - [以深度學習建構蝦養殖池藻相分析]()
+   - [南方澳漁獲分類體驗]()
 
 
 
 ## 課程作品
+  - [攻佔城堡]()
+  - [批踢踢八卦版爬蟲]()
+  - [遊戲廳]()
+  - [植物養成記]()
+  - [Be a Musician!]()
+  - [股票查詢網站]()
   - [宜蘭大冒險](https://github.com/chizoehsieh/Adventure-in-Ilan)
+  - [大富翁]()
+  - [肺部CT影像辨識]()
 	
 
 ## 社團經驗
@@ -56,6 +64,13 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
     - 總務1年          
 
 ## 其他經歷
+  - 參加「2022 全國大專校院暨高中職 i-Life 創新服務企劃競賽」榮獲 優勝
+    - 作品名稱：[糖日記]()
+  - 參與大學程式能力檢定(CPE)
+    - 2022年3月檢定結果為「[3題]()」
+  - 參與第6屆龜山島文學獎「圖文徵獎」徵文榮獲 [佳作]()
+
+
 
 - Bulleted
 - List

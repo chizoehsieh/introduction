@@ -39,6 +39,7 @@
 ## 研究計畫
    - [CPE學習平台系統建置]()
    - [松露AIoT系統及地底攝影開發]()
+   - [量子星空地一體化6G行動網路]()
    - [以深度學習建構蝦養殖池藻相分析]()
    - [南方澳漁獲分類體驗]()
 
@@ -47,13 +48,13 @@
 ## 課程作品
   - [攻佔城堡]()
   - [批踢踢八卦版爬蟲]()
-  - [遊戲廳]()
-  - [植物養成記]()
-  - [Be a Musician!]()
+  - [遊戲廳](https://github.com/chizoehsieh/Gaming_Rooom)
+  - [植物養成記](https://github.com/chizoehsieh/Planting_Trees)
+  - [Be a Musician!](https://github.com/chizoehsieh/Be_a_Musician)
   - [股票查詢網站]()
   - [宜蘭大冒險](https://github.com/chizoehsieh/Adventure-in-Ilan)
-  - [大富翁]()
-  - [肺部CT影像辨識]()
+  - [野外求生](https://github.com/chizoehsieh/Survival)
+  - [肺部CT影像辨識](https://github.com/chizoehsieh/CT_image_with_neural_network)
 	
 
 ## 社團經驗

@@ -46,12 +46,12 @@
 
 
 ## 課程作品
-  - [攻佔城堡]()
+  - [攻佔城堡](https://github.com/chizoehsieh/Capture_the_Castle)
   - [批踢踢八卦版爬蟲]()
   - [遊戲廳](https://github.com/chizoehsieh/Gaming_Rooom)
   - [植物養成記](https://github.com/chizoehsieh/Planting_Trees)
   - [Be a Musician!](https://github.com/chizoehsieh/Be_a_Musician)
-  - [股票查詢網站]()
+  - [股票查詢網站](https://github.com/chizoehsieh/Crawler_on_ptt)
   - [宜蘭大冒險](https://github.com/chizoehsieh/Adventure-in-Ilan)
   - [野外求生](https://github.com/chizoehsieh/Survival)
   - [肺部CT影像辨識](https://github.com/chizoehsieh/CT_image_with_neural_network)
@@ -70,26 +70,3 @@
   - 參與大學程式能力檢定(CPE)
     - 2022年3月檢定結果為「[3題]()」
   - 參與第6屆龜山島文學獎「圖文徵獎」徵文榮獲 [佳作]()
-
-
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/chizoehsieh/introduction/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.

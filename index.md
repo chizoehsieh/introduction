@@ -55,6 +55,7 @@
   - [宜蘭大冒險](https://github.com/chizoehsieh/Adventure-in-Ilan)
   - [野外求生](https://github.com/chizoehsieh/Survival)
   - [肺部CT影像辨識](https://github.com/chizoehsieh/CT_image_with_neural_network)
+  - [智能合約 – 就學貸款繳費系統](https://github.com/chizoehsieh/Smart_Contract)
 	
 
 ## 社團經驗

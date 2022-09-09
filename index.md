@@ -15,7 +15,8 @@
 2. 於2021年8月參加「2021全國大專校院智慧創新暨跨域整合創作競賽」榮獲第三名
 3. 於2022年6月參加「中國工程師學會學生分會111年度工程論文競賽」榮獲佳作
 4. 專題研究參與競賽
-   - 2022年8月參加「2022全國大專校院智慧創新暨跨域整合創作競賽」
+   - 2022年8月參加「2022全國大專校院智慧創新暨跨域整合創作競賽」入圍決賽
+   - 2022年9月參加「2022第27屆全國大專校院資訊應用服務創新競賽」 
    - 宜蘭大學資訊工程學系110學年度專題研究製作競賽榮獲第一名
    - 宜蘭大學電機資訊學院110學年度VIP特色專題製作競賽榮獲佳作
 5. 於2022年6月參加「國立宜蘭大學圖書資訊館2022程式設計暨資訊應用競賽」榮獲入選獎
@@ -47,11 +48,11 @@
 
 ## 課程作品
   - [攻佔城堡](https://github.com/chizoehsieh/Capture_the_Castle)
-  - [批踢踢八卦版爬蟲]()
+  - [批踢踢八卦版爬蟲](https://github.com/chizoehsieh/Crawler_on_ptt)
   - [遊戲廳](https://github.com/chizoehsieh/Gaming_Rooom)
   - [植物養成記](https://github.com/chizoehsieh/Planting_Trees)
   - [Be a Musician!](https://github.com/chizoehsieh/Be_a_Musician)
-  - [股票查詢網站](https://github.com/chizoehsieh/Crawler_on_ptt)
+  - [股票查詢網站]()
   - [宜蘭大冒險](https://github.com/chizoehsieh/Adventure-in-Ilan)
   - [野外求生](https://github.com/chizoehsieh/Survival)
   - [肺部CT影像辨識](https://github.com/chizoehsieh/CT_image_with_neural_network)

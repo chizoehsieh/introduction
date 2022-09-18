@@ -52,7 +52,7 @@
   - [遊戲廳](https://github.com/chizoehsieh/Gaming_Rooom)
   - [植物養成記](https://github.com/chizoehsieh/Planting_Trees)
   - [Be a Musician!](https://github.com/chizoehsieh/Be_a_Musician)
-  - [股票查詢網站]()
+  - [股票查詢網站](https://github.com/chizoehsieh/Stock_search)
   - [宜蘭大冒險](https://github.com/chizoehsieh/Adventure-in-Ilan)
   - [野外求生](https://github.com/chizoehsieh/Survival)
   - [肺部CT影像辨識](https://github.com/chizoehsieh/CT_image_with_neural_network)
@@ -68,7 +68,7 @@
 
 ## 其他經歷
   - 參加「2022 全國大專校院暨高中職 i-Life 創新服務企劃競賽」榮獲 優勝
-    - 作品名稱：[糖日記]()
+    - 作品名稱：[糖日記](https://github.com/chizoehsieh/Sugar_diary)
   - 參與大學程式能力檢定(CPE)
-    - 2022年3月檢定結果為「[3題]()」
-  - 參與第6屆龜山島文學獎「圖文徵獎」徵文榮獲 [佳作]()
+    - 2022年3月檢定結果為「3題」
+  - 參與第6屆龜山島文學獎「圖文徵獎」徵文榮獲 佳作

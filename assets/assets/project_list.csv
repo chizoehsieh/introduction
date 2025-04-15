@@ -1,0 +1,21 @@
+﻿Year,Project name,Summary,Skill,Link,Img file name,Others
+2020,植物養成記,使用方向鍵控制盤面上所有方塊向同一個方向移動，每次移動會隨機出現一個新的方塊，將兩個相同圖片的方塊合併，會成為下一個階段的植物，當成功合併兩個「枯萎的樹」，即可過關。當盤面上沒有多餘空間，遊戲即結束。,C#、SQL、Visual Studio,https://github.com/chizoehsieh/Planting_Trees,planting_trees.png,
+2021,Be a Musician!,近年來，市面上充斥許多形形色色的音樂節奏遊戲，獨特的遊玩模式與關卡制度，讓許多玩家沉迷其中。但是在那些遊戲過程中，並不會真的學到樂理或節奏的知識，我們希望能透過這款App，讓遊玩的玩家能學習到更多樂理知識，也讓管樂團、管弦樂團的團員們，能利用空閒時間，練習自己較不熟的段落，節省練習樂器的時間。,Android Java、Android Studio、Firebase、PreSonus Studio One 5,https://github.com/chizoehsieh/Be_a_Musician,Be_a_musician.png,
+2021,股票資訊查詢系統,"此系統基於django架構，以python作為後端程式，使用twstock模組即時抓取台灣股票的即時資訊，並建立sqlite資料庫，存放近一年的歷史資料。
+前端使用html、css與js建立網頁，於首頁可選擇查詢即時資訊或歷史資訊，搜尋後即跳至該頁面。",Python、HTML、CSS、Django,https://github.com/chizoehsieh/Stock_search,stock_search2.png,
+2021,野外求生,一群人搭乘郵輪開心出遊，途中遇到暴風雨，郵輪翻覆了。因事發突然，遊客們緊急登上救生小艇，開始漂流。有4個人漂流至同一個荒島，並在此展開了求生之旅。求生之路困難重重，因為事發突然，每個人身上只剩下三份補給品，一份能活兩天，一旦身上沒有補給品，行動範圍就只能在1-3步之中。旅途中會遇到許多事情，可能會增加或扣除玩家的分數。經過商店時，可用分數購買補給品。最先找到直升機的人，能搭乘直升機逃離。得到分數最多的人，會拿到高級補給品，未來能有更多的體力應變突發狀況。,C#、Visual Studio,https://github.com/chizoehsieh/Survival,Survival.png,
+2021,宜蘭大冒險,宜蘭是一個充滿傳統技藝的縣市，還保有許多文化習俗跟傳統，但一般遊客並不容易認識這些傳統文化，因此，我們想藉由這個遊戲讓更多人在遊玩遊戲中，更認識宜蘭的傳統文化。,p5.js、processing,https://editor.p5js.org/chizoehsieh/full/7axCArNlo,anventure_in_ilan.png,
+2021,A trial of multiple neural networks reflecting the results of COVID-19 CT image processing,"本研究透過肺部CT影像分析是否有感染COVID-19，CT影像可用於判斷患者是否感染病毒性肺炎（COVID-19是一種由SARS-CoV-2病毒引起的病毒性肺炎）。但是CT 無法確定導致病毒性肺炎的病毒是 SARS-CoV-2 還是其他病毒。 
+嚴格來說，CT 不能用於確認患者是否感染了 COVID-19。 然而在疫情爆發期間，大多數病毒性肺炎是由 SARS-CoV-2 引起的。也就是說，如果患者根據CT結果確診為病毒性肺炎，這種病毒性肺炎極有可能是COVID-19。 
+本研究參考""Medical Image Processing and Deep Learning to Diagnose COVID-19 with CT Images""。",Python、Preprocessing、Feature detect、Deep Learning,https://github.com/chizoehsieh/CT_image_with_neural_network,ct_image.png,
+2022,基於深度學習與影像辨識的居家腸道疾病健檢系統開發,大腸癌罹癌與死亡人數，逐年快速攀升，位居所有癌症發生率及死亡率的第2位及第3位。大腸癌早期並無症狀，但可以藉由定期接受篩檢而早期發現早期治療，為治癒率很高的癌症。根據統計，糞便潛血檢查不受飲食或藥物影響，採樣方便，但需去醫院檢查，且50歲以上才有健保給付。我們認為，預防不單是在醫院做檢查，理想的狀況是在日常生活就對自身的健康狀況有大致的把握，因此我們研發了一套系統，利用深度學習與影像辨識，透過手機拍照，就能從排遺中分析腸道的健康狀況。,Flutter、Restful API、Mongo DB、Deep Learning、IR Spectrum,https://www.youtube.com/watch?v=lKP8vwg00AQ,Intestines_health.png,
+2022,智能合約 – 就學貸款繳費系統,"雖然申請就學貸款對於家裡經濟較不好的同學很友善，讓每個人都有機會讀大學，但是因為申請學貸要每個學期都親自到銀行申請，是有點麻煩的，而且在疫情期間我們應該要減少外出活動，降低染疫的風險。 
+現在虛擬加密貨幣及智能合約的應用越來越普遍，透過其不可串改及透明的特性，可以讓學生清楚的看到貸款的金額和明細等資料，如此一來就能夠確保自己的貸款資訊。因此，我們將實作出一個利用智能合約來讓學生不用出門就可以申請學貸的機制，也讓銀行、學校、學生三方清楚的知道金錢的流向以及貸款的金額。",solidity、remix IDE、Ropsten,https://github.com/chizoehsieh/Smart_Contract,,
+2022,垃圾車查詢系統,"在台灣，出門倒垃圾是日常生活要做的事情之一，我們很常因為時間來不及而追著垃圾車跑，或是提前先到外面等垃圾車抵達。這些都是倒垃圾時可能會發生的問題，會讓我們要花一些時間和心力在倒垃圾這件小事上。 
+因此我們想要製作一個可以追蹤並提醒垃圾車即將抵達的APP，從這個APP可以看到每條垃圾車的路線、垃圾車的即時位置和資訊、也可以自由選擇要顯示的路線，並且可以自行輸入地址，再由APP主動通知垃圾車快到了。如此一來，民眾就可以花更少的時間和心力在丟垃圾這件事情上。",Anroid Java、HTTP Request、Android Studio,https://www.youtube.com/watch?v=nE52WqWv3To,garbage_truck.png,
+2022,花花世界,我們經常在校園或戶外看到各種不同的植物，但卻不知道這些植物的名稱，也不知道相關的知識。雖然現在的google相機已非常發達，但它需要連接網路才能使用，且對於植物的介紹品質參差不齊。 因此，我們希望可以透過此系統，在不需連接網路的情況下，幫助我們認識校園內的植物。,Python、Unity、Yolov5,https://github.com/chizoehsieh/Flower_World,flower_world.png,
+2023,桌上冰球,這是一款兩人對戰的遊戲，玩家需要操控自己的搖桿，把冰球推進對方球門就可以得分，最先獲得5分的人就可以取得勝利，在遊戲中可以感受到冰球比賽的激烈氣氛。遊戲畫面簡潔、清晰、逼真，讓玩家可以更沉浸於遊戲之中，享受遊戲帶來的樂趣。,Processing、Arduino、p5.js,https://editor.p5js.org/chizoehsieh/full/ARZZ3X9zX,air_hockey.png,
+2023,樂器大解密,一般人平常鮮少有機會看到這些大型、不常見的樂器即使能看到，也不太有機會能近距離仔細看樂器的構造和外觀設計，或是單純聽到此樂器的聲音。因此，我們設計了此作品，讓使用者只要有HoloLens設備，不限空間，都能看到這些樂器，對這些樂器有更多的認識，希望未來甚至能透過這種方式親自體驗樂器，讓每個人都有機會了解這些樂器。,Unity、HoloLens,https://youtu.be/PkhrIQ9s8pk ,instruments_secret.jpg,
+2023,貪食蛇_多人連線,"這是一款透過網路連線的多人貪食蛇遊戲,玩家可透過同一個server的連線網址,連到同一場遊戲一起遊玩.",Java、Client-Server,https://github.com/chizoehsieh/Snake,snake.png,
+2023,自駕賽車,本專案利用強化學習技術，訓練賽車在指定賽道上進行競速，目標是在最短時間內通過終點線或在指定時間內行駛最長距離。賽車的控制系統透過雷達感知賽道邊界並學習如何最佳化轉彎、速度調整與行駛方向，提升競賽表現。,Python、Reinforcement Learning,https://github.com/chizoehsieh/Racecar,racecar.png,
+2024,Steam遊戲推薦,Steam是全球最大的數位遊戲發行平台之一，擁有數以千計的遊戲和數以億計的玩家。在這樣龐大的遊戲庫中，如何精準推薦玩家可能感興趣的遊戲，非常重要。 我們自己也是Steam的玩家之一，我們認為Steam目前的推薦遊戲，並非我們真的會感興趣的遊戲。因此，我們利用Link Prediction方法，根據玩家的歷史行為，預測該玩家可能感興趣的遊戲，提高遊戲推薦的準確性。我們還利用社群辨識的方法，使玩家可以找到與購買行為相似的玩家，並互相介紹與推薦遊戲，提高遊戲的能見度。,Python、Machine Learning,https://github.com/chizoehsieh/Steam_Video_Games_Recommendation,steam.jpg,
